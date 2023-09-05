@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(249, 170, 170) ;
+    font-family: monospace;
+    font-size: x-large;
+    margin: 40px 50px;
+}
+button{
+    padding: 10px 20px;
+    margin: 5px 4px;
+    border: 5px solid rgb(3, 3, 2);
+    background-color: antiquewhite;
+    border-radius: 10px;
+    height: 50px;
+}
+.boder{
+    border: 8px solid black;
+    width: 215px;
+    height: 190px;
+    border-radius: 5px;
+    background-color: rgb(73, 74, 74);
+}
